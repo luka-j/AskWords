@@ -1,2 +1,0 @@
-# AskWords
-Counts words
